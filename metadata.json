@@ -1,0 +1,6 @@
+{
+  "name": "SweetBites Artisanal Bakery & Patisserie",
+  "description": "Luxury contemporary Filipino bakery and online dessert ordering platform featuring signature cakes, ube cupcakes, golden cassava cake, fudgy brownies, muffins, and custom celebration cakes.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
